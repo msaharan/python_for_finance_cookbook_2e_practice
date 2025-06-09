@@ -1,5 +1,6 @@
 # ignore environment secrets
-.env
+*.env
+*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
